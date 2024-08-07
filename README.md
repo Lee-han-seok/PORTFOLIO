@@ -26,23 +26,83 @@
   - :trophy: 1위
   - [분석자료](https://github.com/Lee-han-seok/nutrition_advisor/blob/main/%EC%98%81%EC%96%91%EB%B0%95%EC%82%AC%EB%A5%BC%20%EC%95%84%EC%84%B8%EC%9A%94_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C.pdf)
 
-# Else 🌈 
+# ETC 🌈 
 
 ## ⏲️ Time Series Forecasting
 
+[🔗]() 1. 제목 ( ~ )
+  - 주제 : 
+  - 주최기관 : 
+  - Summary : 
+  - 활용 Tool : Python
+  - :trophy: 
+  - [분석자료]()
+<br/>
 
-
+[🔗]() 2. 제목 ( ~ )
+  - 주제 : 
+  - 주최기관 : 
+  - Summary : 
+  - 활용 Tool : Python
+  - :trophy: 
+  - [분석자료]()
 
 ## 🎯 Classification :
 
+[🔗]() 1. 제목 ( ~ )
+  - 주제 : 
+  - 주최기관 : 
+  - Summary : 
+  - 활용 Tool : Python
+  - :trophy: 
+  - [분석자료]()
+<br/>
 
+[🔗]() 2. 제목 ( ~ )
+  - 주제 : 
+  - 주최기관 : 
+  - Summary : 
+  - 활용 Tool : Python
+  - :trophy: 
+  - [분석자료]()
 
 ## 📈 Regression
 
+[🔗]() 1. 제목 ( ~ )
+  - 주제 : 
+  - 주최기관 : 
+  - Summary : 
+  - 활용 Tool : Python
+  - :trophy: 
+  - [분석자료]()
+<br/>
 
-## 🔍 EDA Project
+[🔗]() 2. 제목 ( ~ )
+  - 주제 : 
+  - 주최기관 : 
+  - Summary : 
+  - 활용 Tool : Python
+  - :trophy: 
+  - [분석자료]()
 
+## 🔍 Insight/EDA Project
 
+[🔗]() 1. 제목 ( ~ )
+  - 주제 : 
+  - 주최기관 : 
+  - Summary : 
+  - 활용 Tool : Python
+  - :trophy: 
+  - [분석자료]()
+<br/>
+
+[🔗]() 2. 제목 ( ~ )
+  - 주제 : 
+  - 주최기관 : 
+  - Summary : 
+  - 활용 Tool : Python
+  - :trophy: 
+  - [분석자료]()
 
 
 
