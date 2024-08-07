@@ -17,3 +17,11 @@
   - 활용 Tool : Python, Javascript, HTML, MySQL
   - :trophy: -
   - [분석자료](https://github.com/Lee-han-seok/Solar_B/blob/main/SOLAR_B-%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C.pdf)
+
+### [🔗](https://github.com/Lee-han-seok/nutrition_advisor) 3. OCR과 LLM을 활용한 개인 맞춤 영양정보 제공 (2023.10.01 ~ 2024.10.30)
+  - 주제 : 청년들의 저축생활을 위한 개인 맞춤 금융 상품 추천 서비스 기획, 구현
+  - 주최기관 : SK플래닛
+  - Summary : OCR(Paddle OCR)을 활용한 텍스트 추출, LLM(Bard)을 활용한 텍스트 전처리, 프롬프트 엔지니어링, Streamlit을 활용한 구현
+  - 활용 Tool : Python, Bard, Streamlit
+  - :trophy: 1위
+  - [분석자료](https://github.com/Lee-han-seok/Solar_B/blob/main/SOLAR_B-%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C.pdf)
