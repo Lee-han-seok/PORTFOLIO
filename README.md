@@ -24,4 +24,4 @@
   - Summary : OCR(Paddle OCR)을 활용한 텍스트 추출, LLM(Bard)을 활용한 텍스트 전처리, 프롬프트 엔지니어링, Streamlit을 활용한 구현
   - 활용 Tool : Python, Bard, Streamlit
   - :trophy: 1위
-  - [분석자료](https://github.com/Lee-han-seok/Solar_B/blob/main/SOLAR_B-%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C.pdf)
+  - [분석자료](https://github.com/Lee-han-seok/nutrition_advisor/blob/main/%EC%98%81%EC%96%91%EB%B0%95%EC%82%AC%EB%A5%BC%20%EC%95%84%EC%84%B8%EC%9A%94_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C.pdf)
