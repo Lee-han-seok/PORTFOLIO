@@ -59,7 +59,7 @@
   - [상세 정리](https://blog.naver.com/2hannseok/223332833904) 
 
 
-## 🎯 Classification :
+## 🎯 Classification
 
 ### [🔗](https://github.com/Lee-han-seok/Data-Competition/tree/main/%5B24.02%5D%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98) 1. 고객 대출등급 예측 (2024.01.15 ~ 2024.02.14) 
   - [대회 링크 📍](https://dacon.io/edu/46) 
