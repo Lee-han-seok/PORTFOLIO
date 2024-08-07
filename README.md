@@ -1,4 +1,4 @@
-# Main 🚀
+# 주요 프로젝트 수행 내역 🚀
 
 * 🔗를 클릭하면 해당 페이지로 이동합니다.
 
@@ -10,15 +10,7 @@
   - :trophy: **최우수상** 🥈 (힌국부동산원장상)
   - [분석자료](https://github.com/Lee-han-seok/Data-Competition/blob/main/%E2%98%85%5B23.12%5D%20%EB%B9%85%EC%BD%98%ED%85%8C%EC%8A%A4%ED%8A%B8%20%ED%94%8C%EB%9E%AB%ED%8F%BC%ED%99%9C%EC%9A%A9%EB%B6%84%EC%95%BC%20%EC%A7%80%EC%A0%95%EC%A3%BC%EC%A0%9C%EB%A6%AC%EA%B7%B8(%EB%B6%80%EB%8F%99%EC%82%B0)/%EC%9A%B0%EB%A6%AC4Lee_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 
-### [🔗](https://github.com/Lee-han-seok/Solar_B) 2. Solar-B : 청년들을 위한 금융 상품 선별(추천) 서비스 (2023.11.01 ~ 2024.01.15)
-  - 주제 : 청년들의 저축생활을 위한 개인 맞춤 금융 상품 추천 서비스 기획, 구현
-  - 주최기관 : SK플래닛
-  - Summary : 경제지표 분석, 금융 상품 데이터 수집, 추천 로직 구성, 웹 기획/구현 등
-  - 활용 Tool : Python, Javascript, HTML, MySQL
-  - :trophy: -
-  - [분석자료](https://github.com/Lee-han-seok/Solar_B/blob/main/SOLAR_B-%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C.pdf)
-
-### [🔗](https://github.com/Lee-han-seok/nutrition_advisor) 3. OCR과 LLM을 활용한 개인 맞춤 영양정보 제공 (2023.10.01 ~ 2024.10.30)
+### [🔗](https://github.com/Lee-han-seok/nutrition_advisor) 2. OCR과 LLM을 활용한 개인 맞춤 영양정보 제공 (2023.10.01 ~ 2024.10.30)
   - 주제 : 청년들의 저축생활을 위한 개인 맞춤 금융 상품 추천 서비스 기획, 구현
   - 주최기관 : SK플래닛
   - Summary : OCR(Paddle OCR)을 활용한 텍스트 추출, LLM(Bard)을 활용한 텍스트 전처리, 프롬프트 엔지니어링, Streamlit을 활용한 구현
@@ -26,7 +18,15 @@
   - :trophy: 1위
   - [분석자료](https://github.com/Lee-han-seok/nutrition_advisor/blob/main/%EC%98%81%EC%96%91%EB%B0%95%EC%82%AC%EB%A5%BC%20%EC%95%84%EC%84%B8%EC%9A%94_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C.pdf)
 
-# ETC 🌈 
+### [🔗](https://github.com/Lee-han-seok/Solar_B) 3. Solar-B : 청년들을 위한 금융 상품 선별(추천) 서비스 (2023.11.01 ~ 2024.01.15)
+  - 주제 : 청년들의 저축생활을 위한 개인 맞춤 금융 상품 추천 서비스 기획, 구현
+  - 주최기관 : SK플래닛
+  - Summary : 경제지표 분석, 금융 상품 데이터 수집, 추천 로직 구성, 웹 기획/구현 등
+  - 활용 Tool : Python, Javascript, HTML, MySQL
+  - :trophy: -
+  - [분석자료](https://github.com/Lee-han-seok/Solar_B/blob/main/SOLAR_B-%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C.pdf)
+  - 
+# M/L Task별 프로젝트 수행 내역 🌈 
 
 ## ⏲️ Time Series Forecasting
 
@@ -71,7 +71,7 @@
   - [상세 정리](https://blog.naver.com/2hannseok/223403765008) 
 <br/>
 
-###  [🔗](https://github.com/Lee-han-seok/Mini_Project/tree/main/%5B23.11%5D%20creditcard_abnormal_detection) 3. Creditcard abnormal detection (2023.11)
+###  [🔗](https://github.com/Lee-han-seok/Mini_Project/tree/main/%5B23.11%5D%20creditcard_abnormal_detection) 2. Creditcard abnormal detection (2023.11)
   - 주제 : 카드 사용 데이터에서 이상거래 탐지
   - 주최기관 : Kaggle
   - Summary : AutoEncoder(DL)와 XGBoost 등 ML 분류 모델들을 활용한 이상탐지 수행
