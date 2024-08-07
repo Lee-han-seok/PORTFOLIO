@@ -7,7 +7,7 @@
   - 주최기관 : 과학기술정보통신부, 한국지능정보사회진흥원, 한국부동산원
   - Summary : 공공데이터 기반 부동산 필지 단위 요식업 매출 등급 예측
   - 활용 Tool : Python, QGIS, Tableau
-  - :trophy: **최우수상** 🥈
+  - :trophy: **최우수상** 🥈 (힌국부동산원장상)
   - [분석자료](https://github.com/Lee-han-seok/Data-Competition/blob/main/%E2%98%85%5B23.12%5D%20%EB%B9%85%EC%BD%98%ED%85%8C%EC%8A%A4%ED%8A%B8%20%ED%94%8C%EB%9E%AB%ED%8F%BC%ED%99%9C%EC%9A%A9%EB%B6%84%EC%95%BC%20%EC%A7%80%EC%A0%95%EC%A3%BC%EC%A0%9C%EB%A6%AC%EA%B7%B8(%EB%B6%80%EB%8F%99%EC%82%B0)/%EC%9A%B0%EB%A6%AC4Lee_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 
 ### [🔗](https://github.com/Lee-han-seok/Solar_B) 2. Solar-B : 청년들을 위한 금융 상품 선별(추천) 서비스 (2023.11.01 ~ 2024.01.15)
@@ -30,7 +30,7 @@
 
 ## ⏲️ Time Series Forecasting
 
-### [🔗](https://github.com/Lee-han-seok/Data-Competition/tree/main/%5B20.06%5D%20%EA%B8%B0%EC%83%81%EC%B2%AD%20%EB%82%A0%EC%94%A8%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%BD%98%ED%85%8C%EC%8A%A4%ED%8A%B8) 1. 기상청 날씨 빅데이터 콘테스트
+### [🔗](https://github.com/Lee-han-seok/Data-Competition/tree/main/%5B20.06%5D%20%EA%B8%B0%EC%83%81%EC%B2%AD%20%EB%82%A0%EC%94%A8%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%BD%98%ED%85%8C%EC%8A%A4%ED%8A%B8) 1. 기상청 날씨 빅데이터 콘테스트 (2020.04.27 ~ 2020.06.29)
   - 주제 : 딥러닝과 기상 데이터 활용을 통한 현대 제철 철강 제품 결로 발생 예측 
   - 주최기관 : 기상청, 현대제철 
   - Summary : 제공 데이터와 기상 등 공공데이터를 결합한 데이터에 Conditional 1D CNN, LSTM 등 딥러닝 기반 모델 적용을 통한 시계열 예측
@@ -71,7 +71,7 @@
   - [상세 정리](https://blog.naver.com/2hannseok/223403765008) 
 <br/>
 
-###  [🔗](https://github.com/Lee-han-seok/Mini_Project/tree/main/%5B23.11%5D%20creditcard_abnormal_detection) 3. Creditcard abnormal detection [23.11]
+###  [🔗](https://github.com/Lee-han-seok/Mini_Project/tree/main/%5B23.11%5D%20creditcard_abnormal_detection) 3. Creditcard abnormal detection (2023.11)
   - 주제 : 카드 사용 데이터에서 이상거래 탐지
   - 주최기관 : Kaggle
   - Summary : AutoEncoder(DL)와 XGBoost 등 ML 분류 모델들을 활용한 이상탐지 수행
@@ -118,7 +118,7 @@
   - 주최기관 : 한국정보화진흥원
   - Summary : 무더위 쉼터 입지선정을 위한 군집분석, EDA, GIS 분석 등
   - 활용 Tool : R, QGIS
-  - :trophy: **우수상** 🥉
+  - :trophy: **우수상** 🥉 (NIA 원장상)
   - [분석자료](https://github.com/Lee-han-seok/Data-Competition/tree/main/%E2%98%85%5B19.08%5D%20%ED%96%89%EC%A0%95%EC%95%88%EC%A0%84%EB%B6%80%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EA%B3%B5%EB%AA%A8%EC%A0%84/i-Space%20%EC%9E%85%EC%A7%80%EC%84%A0%EC%A0%95_%EB%8B%A4%EC%96%91%ED%95%9C%20%EC%97%B0%EB%A0%B9%EB%8C%80%EA%B0%80%20%EC%9D%B4%EC%9A%A9%EA%B0%80%EB%8A%A5%ED%95%9C%20%EB%AC%B4%EB%8D%94%EC%9C%84%20%EC%89%BC%ED%84%B0(SMG).pdf)
 
 
