@@ -25,7 +25,7 @@
   - 활용 Tool : Python, Javascript, HTML, MySQL
   - :trophy: -
   - [분석자료](https://github.com/Lee-han-seok/Solar_B/blob/main/SOLAR_B-%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C.pdf)
-  - 
+    
 # M/L Task별 프로젝트 수행 내역 🌈 
 
 ## ⏲️ Time Series Forecasting
