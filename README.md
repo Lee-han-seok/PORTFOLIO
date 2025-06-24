@@ -11,7 +11,7 @@
   - [분석자료](https://github.com/Lee-han-seok/Data-Competition/blob/main/%E2%98%85%5B23.12%5D%20%EB%B9%85%EC%BD%98%ED%85%8C%EC%8A%A4%ED%8A%B8%20%ED%94%8C%EB%9E%AB%ED%8F%BC%ED%99%9C%EC%9A%A9%EB%B6%84%EC%95%BC%20%EC%A7%80%EC%A0%95%EC%A3%BC%EC%A0%9C%EB%A6%AC%EA%B7%B8(%EB%B6%80%EB%8F%99%EC%82%B0)/%EC%9A%B0%EB%A6%AC4Lee_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 
 ### [🔗](https://github.com/Lee-han-seok/nutrition_advisor) 2. OCR과 LLM을 활용한 개인 맞춤 영양정보 제공 (2023.10.01 ~ 2024.10.30)
-  - 주제 : 청년들의 저축생활을 위한 개인 맞춤 금융 상품 추천 서비스 기획, 구현
+  - 주제 : OCR을 활영하여 제품영양성분 인식 후, 개인 맞춤 영양정보(칼로리, 알레르기 위험 등) 제공하는 서비스 제작
   - 주최기관 : SK플래닛
   - Summary : OCR(Paddle OCR)을 활용한 텍스트 추출, LLM(Bard)을 활용한 텍스트 전처리, 프롬프트 엔지니어링, Streamlit을 활용한 구현
   - 활용 Tool : Python, Bard, Streamlit
